@@ -1,0 +1,4 @@
+browser-use
+python-dotenv
+playwright
+asyncio
